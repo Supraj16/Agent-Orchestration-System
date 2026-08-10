@@ -1,0 +1,17 @@
+.env
+.venv/
+.claude/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+.chroma/
+data/
+*.log
+.streamlit/secrets.toml
+
+# Personal reference doc -- not for the public repo
+PRD.md
