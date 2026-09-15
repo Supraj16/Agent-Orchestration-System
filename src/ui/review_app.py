@@ -11,6 +11,8 @@ st.markdown(
     """
 Use the sidebar to navigate:
 
+- **Submit Task** — kick off a new task directly from here (no terminal needed); watch it run
+  node-by-node and see the final output, or get routed to the Approval Queue if it escalates.
 - **Memory Dashboard** — see what the system remembers about a user, and delete it on request.
 - **Approval Queue** — escalations waiting on a human decision: approve, modify, reject, or take
   over, with full task context and relevant past memories.
